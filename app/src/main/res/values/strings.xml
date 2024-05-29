@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GamingLog</string>
+    <string name="title_discover">Discover</string>
+    <string name="title_library">Library</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_activity_game_detail">GameDetailActivity</string>
+    <string name="add_game_to_library">Add game to library</string>
+    <string name="remove_game_from_library">Remove game from library</string>
+</resources>
